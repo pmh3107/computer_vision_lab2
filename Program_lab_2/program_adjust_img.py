@@ -3,7 +3,7 @@ import os
 
 
 # Add img path
-image_path = 'Program_lab_2\ComboActor.png'
+image_path = 'ComboActor.png'
 
 # Option in Adjust img 
 def option_adjust_img():
